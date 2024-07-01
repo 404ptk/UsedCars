@@ -16,7 +16,8 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 <p align="center">Broadcasts</p>
 <p align="center">Auctions are live!</p>
 <p align="center"><img src="/README_images/3.png" width="400" alt="aplication image 3.png"></a></p>
-<p align="center">Routes, Database</p>
+<p align="center">Routes</p>
+<p align="center">Database</p>
 <p align="center"><img src="/README_images/5.png" width="800" alt="aplication image 5.png"></a></p>
 <p align="center">Connection with database</p>
 <p align="center">Views</p>
