@@ -31,8 +31,15 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 <p align="center">Project is mobile friendly.</p>
 <p align="center"><img src="/README_images/9.png" width="400" alt="aplication image 9.png"></a></p>
 
-
-
+# How to install project on local repo
+- **Be sure that u have installed:**
+> XAMPP
+> Composer
+> Source code editor
+- **To install do:**
+> Open the 'start.bat' file for Windows, or 'start.sh' for Linux
+> Open terminal and type following command:
+> > npm run dev
 ## Laravel documentation
 
 [Laravel documentation](https://laravel.com/docs).
