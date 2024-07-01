@@ -28,5 +28,5 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-All copyrights of project belongs to [me](https://github.com/404ptk).
+<p>The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).</p>
+<p>All copyrights of the project belongs to [me](https://github.com/404ptk).</p>
