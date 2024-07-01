@@ -21,6 +21,10 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 - **Schedules**
 - **Seeders**
 - **Models**
+- **Bootstrap**
+
+## Project is mobile friendly
+<p align="center"><img src="/README_images/9.png" width="400" alt="aplication image 9.png"></a></p>
 
 ## Laravel documentation
 
