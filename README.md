@@ -33,11 +33,11 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 
 # How to install project on local repo
 - **Be sure that u have installed:**
-> XAMPP
-> Composer
+> XAMPP<br>
+> Composer<br>
 > Source code editor
 - **To install do:**
-> Open the 'start.bat' file for Windows, or 'start.sh' for Linux
+> Open the 'start.bat' file for Windows, or 'start.sh' for Linux<br>
 > Open terminal and type following command:
 > > npm run dev
 ## Laravel documentation
