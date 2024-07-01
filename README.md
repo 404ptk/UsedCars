@@ -38,8 +38,8 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 > Source code editor
 - **To install do:**
 > Open the 'start.bat' file for Windows, or 'start.sh' for Linux<br>
-> Open terminal and type following command:
-> > npm run dev
+> > Open terminal and type following command:
+> > > npm run dev
 ## Laravel documentation
 
 [Laravel documentation](https://laravel.com/docs).
