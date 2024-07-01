@@ -17,14 +17,14 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 <p align="center">Auctions are live!</p>
 <p align="center"><img src="/README_images/3.png" width="400" alt="aplication image 3.png"></a></p>
 <p align="center">Routes, Database</p>
-<p align="center"><img src="/README_images/5.png" width="400" alt="aplication image 5.png"></a></p>
+<p align="center"><img src="/README_images/5.png" width="800" alt="aplication image 5.png"></a></p>
 <p align="center">Connection with database</p>
 <p align="center">Views</p>
-<p align="center"><img src="/README_images/6.png" width="400" alt="aplication image 6.png"></a></p>
+<p align="center"><img src="/README_images/6.png" width="800" alt="aplication image 6.png"></a></p>
 <p align="center">Schedules</p>
-<p align="center"><img src="/README_images/10.png" width="400" alt="aplication image 10.png"></a></p>
+<p align="center"><img src="/README_images/10.png" width="800" alt="aplication image 10.png"></a></p>
 <p align="center">Seeders</p>
-<p align="center"><img src="/README_images/4.png" width="400" alt="aplication image 4.png"></a></p>
+<p align="center"><img src="/README_images/4.png" width="800" alt="aplication image 4.png"></a></p>
 <p align="center">Models</p>
 <p align="center">Bootstrap</p>
 <p align="center">Project is mobile friendly.</p>
