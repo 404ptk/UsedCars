@@ -13,21 +13,20 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 
 ### Project is using
 
-<p align="center">**Broadcasts**</p>
+<p align="center">Broadcasts</p>
 <p align="center">Auctions are live!</p>
 <p align="center"><img src="/README_images/3.png" width="400" alt="aplication image 3.png"></a></p>
-- **Routes**
-- **Database**
+<p align="center">Routes, Database</p>
 <p align="center"><img src="/README_images/5.png" width="400" alt="aplication image 5.png"></a></p>
-- **Connection with database**
-- **Views**
+<p align="center">Connection with database</p>
+<p align="center">Views</p>
 <p align="center"><img src="/README_images/6.png" width="400" alt="aplication image 6.png"></a></p>
-- **Schedules**
+<p align="center">Schedules</p>
 <p align="center"><img src="/README_images/10.png" width="400" alt="aplication image 10.png"></a></p>
-- **Seeders**
+<p align="center">Seeders</p>
 <p align="center"><img src="/README_images/4.png" width="400" alt="aplication image 4.png"></a></p>
-- **Models**
-- **Bootstrap**
+<p align="center">Models</p>
+<p align="center">Bootstrap</p>
 <p align="center">Project is mobile friendly.</p>
 <p align="center"><img src="/README_images/9.png" width="400" alt="aplication image 9.png"></a></p>
 
