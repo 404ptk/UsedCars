@@ -13,7 +13,7 @@ Project allows users to create and bid auctions of cars. Registration, login, ad
 
 ### Project is using
 
-- **Broadcast**
+<p align="center">**Broadcasts**</p>
 <p align="center">Auctions are live!</p>
 <p align="center"><img src="/README_images/3.png" width="400" alt="aplication image 3.png"></a></p>
 - **Routes**
